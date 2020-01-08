@@ -1852,7 +1852,7 @@ blockquote {
   display: -webkit-flex;
   display: -ms-flexbox;
   display:         flex;
-  margin-top: 15px;
+  margin-top: 25px;
 }
 
 .container {
